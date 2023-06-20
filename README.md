@@ -10,8 +10,9 @@
 
 Meu nome é Matheus Simões, sou Desenvolvedor Front-end há um tempo, me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
 
-- 👦💼 Atuo Dev Front-end Junior livremente pelo mundo (por enquanto)
+- 👦💼 Trabalho como Chatbot Developer Junior na **ZENVIA**
+- 👦💼 Atuo Dev Front-end nas horas vagas
 - 👦🎓 Técnico em Informática pelo **IFSULDEMINAS**
-- 👦🎓 Atualmente cursando Ciência da Computação pelo **IFSULDEMINAS**
-- ⚛ Tecnologias: React.js, React Native, Node.js, Conhecimento em Design de Interfaces
-- 📚 Estudando através dos cursos da **Rocketseat** 
+- 👦🎓 Bacharel em Ciência da Computação pelo **IFSULDEMINAS**
+- ⚛ Tecnologias: React.js, React Native, Node.js, AWS, Node.js Conhecimento em Design de Interfaces
+
